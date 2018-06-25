@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">ElectronicsEngineeringToolKit</string>
     <string name="Resistor_Color_Code">Resistor Color Code</string>
+    <string name="Ohms_Law">Ohms Law</string>
     <string name="resistor_value">Resistor Value</string>
     <string name="calculate">Calculate</string>
     <string name="resistor_example">Resistor Example</string>
