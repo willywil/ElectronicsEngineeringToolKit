@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ElectronicsEngineeringToolKit</string>
+    <string name="Resistor_Color_Code">Resistor Color Code</string>
+    <string name="resistor_value">Resistor Value</string>
+    <string name="calculate">Calculate</string>
+    <string name="resistor_example">Resistor Example</string>
+    <string name="formula">Formula</string>
+    <string name="ohm">Ohms</string>
+    <string name="Formulas">Formulas</string>
+    <string name="Component_Divider">Component Divider</string>
+    <string name="title_activity_ohm">Title Ohm</string>
+    <string name="title_activity_color">Title Color</string>
+    <string name="title_activity_formula">Title Formula</string>
+</resources>
