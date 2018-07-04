@@ -12,4 +12,21 @@
     <string name="title_activity_ohm">Title Ohm</string>
     <string name="title_activity_color">Title Color</string>
     <string name="title_activity_formula">Title Formula</string>
+    <string name="Title">Electrical Engineering Tools</string>
+    <string name="txtOhms">Ohms Law</string>
+    <string name="txtColor">Resistor Color Code</string>
+    <string name="txtFormula">Engineering Formula</string>
+    <string name="action_settings">Settings</string>
+    <string name="band_one">Band 1</string>
+    <string name="band_two">Band 2</string>
+    <string name="multi">Multiplier</string>
+    <string name="tolerance">Tolerance</string>
+    <string name="titleFormula">Component Calculator</string>
+    <string name="txtOut">Output</string>
+    <string name="rBtnSeries">Series Circuit</string>
+    <string name="rBtnParallel">Parallel Circuit</string>
+    <string name="txtCom1">Component 1</string>
+    <string name="txtCom2">Component 2</string>
+    <string name="txtCom3">Component 3</string>
+    <string name="Resistor">1</string>
 </resources>
