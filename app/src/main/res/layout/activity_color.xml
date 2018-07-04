@@ -3,7 +3,6 @@
 <android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
 
-    xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/imageViewLayout"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
@@ -29,6 +28,7 @@
 
         android:layout_marginBottom="40dp"
         android:layout_marginRight="149dp"
+        android:layout_marginEnd="149dp"
         android:background="@color/White"
         app:layout_constraintBottom_toBottomOf="@+id/imageView"
         app:layout_constraintLeft_toLeftOf="@+id/imageView"
@@ -40,6 +40,7 @@
         android:layout_width="20dp"
         android:layout_height="80dp"
         android:layout_marginLeft="25dp"
+        android:layout_marginStart="25dp"
         android:background="@color/White"
         app:layout_constraintLeft_toRightOf="@+id/bText1"
         app:layout_constraintTop_toTopOf="@+id/bText1" />
@@ -52,7 +53,8 @@
         android:layout_marginLeft="21dp"
         android:background="@color/White"
         app:layout_constraintLeft_toRightOf="@+id/bText2"
-        app:layout_constraintTop_toTopOf="@+id/bText1" />
+        app:layout_constraintTop_toTopOf="@+id/bText1"
+        android:layout_marginStart="21dp" />
 
     <TextView
         android:id="@+id/bText4"
@@ -61,7 +63,8 @@
         android:layout_marginLeft="45dp"
         android:background="@color/White"
         app:layout_constraintLeft_toRightOf="@+id/bText3"
-        app:layout_constraintTop_toTopOf="@+id/bText1" />
+        app:layout_constraintTop_toTopOf="@+id/bText1"
+        android:layout_marginStart="45dp" />
 
     <TextView
         android:id="@+id/txtValue"
